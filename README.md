@@ -49,13 +49,13 @@ The application leverages several technologies to ensure a robust and efficient 
 - ![HTML](https://img.shields.io/badge/Eureka-red)
 
 
-  ## 📝 License
+## 📝 License
 
  This application is covered under the ![MIT License](https://img.shields.io/badge/License-MIT-green.svg) license
   
 
 
-  ## 📝 Questions
+## 📝 Questions
 
   For additional questions, please contact mateus.oliveira.uk@gmail.com. Visit my [GitHub profile](https://github.com/Mateuzuk) to see more of my work.
   
