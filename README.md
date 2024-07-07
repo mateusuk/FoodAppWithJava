@@ -14,7 +14,7 @@
   
   ## 🎨 Usage
 
-  <img src="screenshot.png" alt="Image" width="50%">
+  <img src="Screenshot.png" alt="Image" width="50%">
 
 
   ## ⚙️ Features/Objetive
